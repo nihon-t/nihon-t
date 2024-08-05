@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning android app development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 0967138444 on telegram 
-- 😄 Pronouns: 
-- ⚡ Fun fact: am awebsite developer, python bigginer, mobile app developer
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: am a website developer
 
 <!---
 nihon-t/nihon-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
